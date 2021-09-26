@@ -1,0 +1,31 @@
+export const MOCKUPS = Object.freeze({
+    TSHIRT_3D  : "3DShirtabc",
+    HODDIE_3D  : "3DHoodieaz",
+    ZIPPER_HOODIE_3D : "3DZiHoodie",
+    SWEAT_SHIRT_3D : "3DSweatshi",
+    FLEECE_ZIPPER_3D : "3DFleecZip",
+    BOMBER_3D : "3DBomberSi",
+    SWEATER_3D : "3DSweaters",
+    POLO_SHIRT_3D : "3DPoloTFYL",
+    HAWAIIAN_SHIRT_3D : "3DHawaiian",
+    BLANKET : "HLBlankets",
+    QUILT   : "HLQuiltsab",
+    CLASSIC_CAP : "AcClasCaps",
+    FACE_MASK_3D : "3DFaceMask",
+});
+
+export const SLUG = Object.freeze({
+    HODDIE_3D : "3d-hoodie",
+    TSHIRT_3D : "3d-tshirt",
+    ZIPPER_HOODIE_3D : "3d-zipper-hoodie",
+    SWEAT_SHIRT_3D : "3d-sweatshirt",
+    FLEECE_ZIPPER_3D : "3d-fleece-zipper",
+    BOMBER_3D : "3d-bomber",
+    SWEATER_3D : "3d-sweater",
+    POLO_SHIRT_3D : "3d-polo-shirt",
+    HAWAIIAN_SHIRT_3D : "3d-hawaiian-shirt",
+    // BLANKET : "HLBlankets",
+    // QUILT   : "HLQuiltsab",
+    // CLASSIC_CAP : "AcClasCaps",
+    // FACE_MASK_3D : "3DFaceMask",
+});
